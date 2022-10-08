@@ -1,0 +1,8 @@
+== Basics
+=== Einrichtung und Setup
+* JDK 19 installieren
+** z. B. von https://adoptium.net/
+** alternativ über Homebrew, SDKMan, …
+* aktuelle IDE (IntelliJ IDEA, Eclipse, Visual Studio Code, …)
+** sollte Java 19 Features unterstützen
+** IntelliJ 2022.2, Eclipse 2022-09 (4.25)
