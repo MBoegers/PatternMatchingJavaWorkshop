@@ -1,9 +1,9 @@
 = Pattern Matching: mit Java 19
 :backend: revealjs
 :revealjs_theme: workshop
-:revealjs_controls: false
+:revealjs_controls: true
 :revealjs_controlsTutorial: false
-:revealjs_progress: false
+:revealjs_progress: true
 :revealjs_slideNumber: false
 :revealjs_history: true
 :revealjs_center: true
@@ -36,6 +36,7 @@ image::images/BaselOneAdvertisementSlide.svg[background, auto]
 
 include::agenda.adoc[]
 include::basics.adoc[]
+include::closing.adoc[]
 
 // ####################################################
 // #            Presentation area  end                #
