@@ -1,0 +1,12 @@
+== Example: Single Linked List
+=== Basics
+image::images/LinkedListBasics.excalidraw.svg[width=850]
+
+=== Structure
+image::images/LinkedListTypes.excalidraw.svg[width=700]
+
+=== Operations
+image:images/LinkedListOperations.excalidraw.svg[width=850]
+
+=== Solution Code
+Solution und Binärbaum https://github.com/MBoegers/TreeExperiments[MBoegers/TreeExperiments]

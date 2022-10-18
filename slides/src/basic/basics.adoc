@@ -10,6 +10,14 @@
 === OpenJDK 21
 image::images/openjdk_java_19.png[height=650px]
 
+=== On the Menu
+* JEP 361: Switch Expression
+* JEP 359: Record Classes
+* JEP 409: Sealed Classes
+* JEP 394: Instanceof Pattern
+* JEP 427: Pattern Matching for switch
+* JEP 405: Record deconstruction pattern
+
 === JEP 361
 Switch Expression
 

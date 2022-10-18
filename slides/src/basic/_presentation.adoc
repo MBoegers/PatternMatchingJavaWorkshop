@@ -36,6 +36,7 @@ image::images/BaselOneAdvertisementSlide.svg[background, auto]
 
 include::agenda.adoc[]
 include::basics.adoc[]
+include::linkedListExample.adoc[]
 include::closing.adoc[]
 
 // ####################################################
