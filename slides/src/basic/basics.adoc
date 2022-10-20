@@ -7,21 +7,24 @@
 ** sollte Java 19 Features unterstützen
 ** IntelliJ 2022.2, Eclipse 2022-09 (4.25)
 
-=== OpenJDK 21
+=== Road to OpenJDK 21 (LTS)
 image::images/openjdk_java_19.png[height=650px]
+
+=== Features
+image::images/features.png[]
 
 === On the Menu
 * JEP 361: Switch Expression
 * JEP 359: Record Classes
 * JEP 409: Sealed Classes
-* JEP 394: Instanceof Pattern
+* JEP 394: Type (instanceof) Pattern
 * JEP 427: Pattern Matching for switch
-* JEP 405: Record deconstruction pattern
+* JEP 405: Record (deconstruction) pattern
 
 === JEP 361
 Switch Expression
 
-[source,java]
+[source,java,highlight=1|2|4..7]
 ----
 int j = switch (day) {
   case MONDAY, null -> 0;
@@ -85,8 +88,12 @@ sealed class Cornered implements Shape {
 *Motivation*: Give control to developers, Add access restrictions, Support pattern matching
 --
 
+=== Sealed classes
+
+image::images/sealed.svg[]
+
 === JEP 394
-instanceof Pattern
+Type (instanceof) Pattern
 
 [source,java]
 ----

@@ -1,0 +1,9 @@
+@startuml
+interface Shape
+
+class Circular implements Shape
+class Cornered implements Shape
+class Rectangle implements Cornered
+class Square implements Cornered
+@enduml
+

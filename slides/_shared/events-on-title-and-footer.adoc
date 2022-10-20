@@ -5,7 +5,7 @@
 		<img src="../../_shared/images/fsippsack.jpg" class="logo">
 		<div class="name">
 			<p><a href="https://github.com/sippsack">Falk Sippach</a></p>
-			<p><a href="https://twitter.com/sippsack" title="Falk on Twitter">@sippsack</a></p>
+			<p><a href="https://twitter.com/sippsack" title="Falk on Twitter">@sippsack</a>, <a href="mailto:fs@embarc.de">✉️</a></p>
 		</div>
 	</div>
     <div class="participant">
@@ -35,6 +35,7 @@
         <div class="name"><p>
             Falk Sippach
             / <a href="https://twitter.com/sippsack" title="Falk on Twitter">@sippsack</a>
+            / <a href="mailto:fs@embarc.de">✉️</a>
         </p></div>
     </div>
     <div class="participant">
