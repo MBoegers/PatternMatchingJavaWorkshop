@@ -1,9 +1,0 @@
-== Example: BadTelefon
-=== Refactoring
-image::images/badtelefon.png[]
-
-=== Repo for Hands-on Live-Coding
-
-Workshop Code https://github.com/sippsack/java-pattern-matchinge[sippsack/java-pattern-matching]
-
-Solution https://github.com/sippsack/java-pattern-matching/tree/solution[sippsack/java-pattern-matching/tree/solution]
