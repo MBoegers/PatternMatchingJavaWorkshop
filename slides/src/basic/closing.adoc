@@ -9,4 +9,4 @@
 === Slides 'n' Code
 * Slides https://PatternMatchingJavaWorkshop.github.io[PatternMatchingJavaWorkshop.github.io]
 * Feature Demo https://github.com/MBoegers/TreeExperiments[MBoegers/TreeExperiments]
-* Workshop Code https://github.com/sippsack/BadTelefon-Refactoring-Legacy-Code[sippsack/BadTelefon-Refactoring-Legacy-Code]
+* Workshop Code https://github.com/sippsack/java-pattern-matchinge[sippsack/java-pattern-matching]

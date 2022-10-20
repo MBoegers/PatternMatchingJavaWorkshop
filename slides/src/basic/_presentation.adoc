@@ -35,8 +35,13 @@ include::../../_shared/events-on-title-and-footer.adoc[]
 image::images/BaselOneAdvertisementSlide.svg[background, auto]
 
 include::agenda.adoc[]
+
 include::basics.adoc[]
+
 include::linkedListExample.adoc[]
+
+include::badTelefonLiveCoding.adoc[]
+
 include::closing.adoc[]
 
 // ####################################################
