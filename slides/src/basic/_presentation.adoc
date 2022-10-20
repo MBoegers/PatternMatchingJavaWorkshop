@@ -43,8 +43,3 @@ include::linkedListExample.adoc[]
 include::badTelefonLiveCoding.adoc[]
 
 include::closing.adoc[]
-
-// ####################################################
-// #            Presentation area  end                #
-// ####################################################
-include::images/_sources.adoc[]

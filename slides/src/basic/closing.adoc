@@ -5,6 +5,7 @@
 * offizielle Videos zu den aktuellen Features https://www.youtube.com/c/javaplatform[YouTube: javaplatform]
 * Videos, Vorträge, Artikel zu aktuellen Java-Features (Nicolai Parlog) https://nipafx.dev/[nipafx.dev]
 * Inkubator-Projekt Amber (Papers und JEPs zu Pattern Matching) https://openjdk.java.net/projects/amber/[openjdk.java.net]
+* Merlins series about Project Ambers https://www.adesso.de/de/news/blog/schmuckes-java-syntactic-sugar-von-project-amber.jsp[Syntactic Sugar], https://www.adesso.de/de/news/blog/schmuckes-java-records-und-sealed-classes.jsp[Records and Sealed Classes] and https://www.adesso.de/de/news/blog/schmuckes-java-project-amber-und-das-pattern-matching.jsp[Pattern Matching]
 
 === Slides 'n' Code
 * Slides https://PatternMatchingJavaWorkshop.github.io[PatternMatchingJavaWorkshop.github.io]
